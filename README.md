@@ -1,5 +1,5 @@
 # Kamrun's Profile
 
-![Profile Picture](Resume_Kamrun.jpg)
+![Profile Picture](profile_picture.jpg)
 
-[Download CV](cv.pdf)
+[Download CV](Resume_Kamrun.pdf)
