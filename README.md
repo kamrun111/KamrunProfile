@@ -2,4 +2,8 @@
 
 ![Profile Picture](profile_picture.jpg)
 
-[Download CV](Resume_Kamrun.pdf)
+(ResumePDF.jpg)
+
+
+
+[Download Resume](Resume_Kamrun.pdf)
